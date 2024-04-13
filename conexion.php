@@ -2,17 +2,17 @@
 
 //credenciales de acceso a la base datos
 
-$DATABASE_HOST = 'localhost';
+/*$DATABASE_HOST = 'localhost';
 $DATABASE_USER = 'root';
 $DATABASE_PASS = '';
 $DATABASE_NAME = 'web_service';
+*/
 
-/*
 $DATABASE_HOST = 'd6vscs19jtah8iwb.cbetxkdyhwsb.us-east-1.rds.amazonaws.com';
 $DATABASE_USER = 'z46zaznc0rvgtozj';
 $DATABASE_PASS = 'cdx8l0o1wfbujjlw';
 $DATABASE_NAME = 'ofbg970x6c9kf5mu';
-*/
+
 
 // conexion a la base de datos
 
